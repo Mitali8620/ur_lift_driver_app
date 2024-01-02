@@ -1,0 +1,101 @@
+{
+  "project_info": {
+    "project_number": "272995278738",
+    "project_id": "urliftuser-bee29",
+    "storage_bucket": "urliftuser-bee29.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272995278738:android:5ab43d88895fc94130ab4b",
+        "android_client_info": {
+          "package_name": "com.urlift.taxidriver"
+        }
+      },
+
+      "oauth_client": [
+        {
+          "client_id": "272995278738-79nmk7hqvj6cgevrssoqljdar2qr5fg7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.urlift.taxidriver",
+            "certificate_hash": "64746ead64700f9dc7ae5b88848315a1145a6d70"
+          }
+        },
+        {
+          "client_id": "272995278738-lfe3snnbupbe5ed440fmi16k9clpegtp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUYFYu2bE_2i1D9BISe-jFsGA6n9n5hGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "272995278738-lfe3snnbupbe5ed440fmi16k9clpegtp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "272995278738-8jlr23com185kqv4orv6rv0jmg4oodog.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.urLiftDriverApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272995278738:android:e5230daed619050230ab4b",
+        "android_client_info": {
+          "package_name": "com.urlift.taxirider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "272995278738-tpjm5l5pjpmbok93g1g4gv42ebadu6j6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.urlift.taxirider",
+            "certificate_hash": "64746ead64700f9dc7ae5b88848315a1145a6d70"
+          }
+        },
+        {
+          "client_id": "272995278738-lfe3snnbupbe5ed440fmi16k9clpegtp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUYFYu2bE_2i1D9BISe-jFsGA6n9n5hGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "272995278738-lfe3snnbupbe5ed440fmi16k9clpegtp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "272995278738-8jlr23com185kqv4orv6rv0jmg4oodog.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.urLiftDriverApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
+
+
